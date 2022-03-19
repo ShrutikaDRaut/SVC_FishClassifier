@@ -5,7 +5,7 @@ This project helps to identify various fish species based on fish's body feature
 ### Prerequistes
 - Python IDE
 - Python Virtual Environment
--
+
 ## Getting Started
 1. Clone this repository in your local machines
 2. Install the libraries specied in requirements.txt

@@ -4,7 +4,7 @@ This project helps to identify various fish species based on fish's body feature
 
 ## Getting Started
 
-## Prerequistes
+### Prerequistes
 Python IDE
 Python Virtual Environment
 
